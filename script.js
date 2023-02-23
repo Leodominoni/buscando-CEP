@@ -12,7 +12,7 @@ async function buscaEndereco(cep){
     var estado = document.getElementById('estado')
     var bairro = document.getElementById('bairro')
 
-    cidade.value = consultaCepConvertida.logradouro
+    cidade.value = consultaCepConvertida.localidade
     logradouro.value = consultaCepConvertida.logradouro
     estado.value = consultaCepConvertida.uf
     bairro.value = consultaCepConvertida.bairro
