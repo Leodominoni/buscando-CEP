@@ -6,4 +6,10 @@
   
 ## 🚀 Passo-a-passo:
 
-Acesse o link: <br>
+Acesse o link: https://leodominoni.github.io/buscando-CEP/ <br>
+
+Ao colocar o CEP o site irá buscar o nome da rua, bairro, cidade e estado. Veja no exemplo: <br> 
+
+![image](https://user-images.githubusercontent.com/95833042/220903418-e7cc130c-5f63-4ada-87c0-0fc999f342c8.png)
+
+
